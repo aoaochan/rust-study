@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "t01-variables"
+name = "t01-basic"
 version = "0.1.0"
