@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "adder", "adder_fourth",
+  "adder",
   "adder_second",
   "adder_third",
   "adder_fourth", 
