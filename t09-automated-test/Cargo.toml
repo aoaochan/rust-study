@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  "adder", "adder_fourth",
+  "adder_second",
+  "adder_third",
+  "adder_fourth", 
+  "adder_ect"
+]
