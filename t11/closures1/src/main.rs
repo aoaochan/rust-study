@@ -18,7 +18,7 @@ fn main() {
     let mut cnt_sort_op = 0;
     list.sort_by_key(|r| {
         cnt_sort_op += 1;
-        r.width
+        r.width * r.height
     });
     println!("{list:#?}, sorted in {cnt_sort_op} operations");
 
