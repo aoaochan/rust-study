@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "box_generic",
+  "deref_trait",
+  "drop_trait"
+]
